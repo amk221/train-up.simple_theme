@@ -6,7 +6,7 @@
 ## Installation
 
 1. Simply drop this into your WordPress __themes__ folder
-2. Active the theme from within WordPress
+2. Activate the theme from within WordPress
 
 ### Why?
 
