@@ -1,4 +1,4 @@
-![Train-Up! logo](http://wptrainup.co.uk/wp-content/themes/wptrainup_v2/img/@2x/logo2.png "Title")
+<img src="https://raw.githubusercontent.com/amk221/train-up/master/docs/img/logo.png" width="173" height="35">
 
 
 # A simple WordPress theme for use with Train-Up! e-learning plugin
